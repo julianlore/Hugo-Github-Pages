@@ -1,3 +1,7 @@
 [submodule "themes/minimal-academic"]
 	path = themes/minimal-academic
 	url = https://github.com/jhu247/minimal-academic
+[submodule "public"]
+	path = public
+	url = https://github.com/julianlore/julianlore.github.io.git
+	branch = master

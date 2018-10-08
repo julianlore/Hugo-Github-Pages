@@ -1,13 +1,13 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://example.com"
+baseurl = "https://julianlore.com"
 
 # Title of your site
-title = "Minimal Academic"
+title = "Julian Lore"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Joshua Hu 2018"
+copyright = "Julian Lore 2018"
 
 theme = "minimal-academic"
 enableEmoji = true
@@ -38,18 +38,18 @@ enableGitInfo = false
 
 [params]
   # Your details.
-  name = "Minimal Academic"
-  bio = "A minimally academic theme."
+  name = "Julian Lore"
+  bio = "Undergraduate student at McGill University."
 
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "heckert.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
-  location = "San Francisco"
+  location = "Montreal, Canada"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
   #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
 
-  # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
+  # Date and time format 
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
@@ -67,27 +67,9 @@ enableGitInfo = false
   privacy_pack = false
 
   [[params.social]]
-    icon = "instagram"
-    icon_pack = "fa"
-    link = "//instagram.com/jhu247"
-    text = "Instagram"
-
-  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/joshua-hu-12290a43"
-    text = "LinkedIn"
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/jhu247"
-    text = "Twitter"
-
-  [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/jhu247"
+    link = "//github.com/julianlore"
     text = "Github"
 
 # Taxonomies.
