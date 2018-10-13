@@ -20,7 +20,8 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+# This can be public as anyone can access it if they visit your site, just make sure to set a filter on Google Analytics to prevent others from maliciously corrupting your data
+googleAnalytics = "UA-127408997-1"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
