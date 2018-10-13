@@ -2,10 +2,8 @@
 title: "Installing an Arch Linux VM"
 hero_image: "hero.jpg"
 date: 2018-10-07T22:24:25-04:00
-description: "Setup guide for an Arch Linux VM along with scripts"
+description: "Setup guide for an Arch Linux VM along with scripts."
 ---
-
-## Installing an Arch Linux VM
 I use Arch Linux as my main working operating system on my laptop, as
 I love how it is very bare-bones and can be configured exactly how you
 like it, making it your very own experience, but at the same time not
