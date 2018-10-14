@@ -17,7 +17,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 paginate = 10
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "julianlore"
 
 # Enable analytics by entering your Google Analytics tracking ID
 # This can be public as anyone can access it if they visit your site, just make sure to set a filter on Google Analytics to prevent others from maliciously corrupting your data
